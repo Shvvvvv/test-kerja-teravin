@@ -1,0 +1,11 @@
+.containerTextField {
+    margin-bottom: 10px;
+}
+
+.containerTextField label {
+    font-size: 0.7rem;
+}
+
+input[type='text'] {
+    width: 100%;
+}
